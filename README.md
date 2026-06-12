@@ -18,3 +18,4 @@ This project is part of the Data Analyst Virtual Internship program (Task 1). It
 ## Project Structure
 * `Student_Performance_Analysis.pbix` - Core Power BI Dashboard file.
 * `Student_Performance_Analysis_Report.pdf` - Comprehensive PDF Analytical Report.
+* `Student_performance_data_.csv` - The raw dataset containing 2,392 student records.
